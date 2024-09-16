@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on **[Space Rebels](https://github.com/aliyunuscan/SpaceRebels):** A 2D space-themed roguelike game where players battle through procedurally generated enemy waves.
 - 🌱 I’m currently learning **Unreal Engine** and **3D Modelling**.
-- ⚡ Watch my **[Youtube](https://www.youtube.com/@carb0nn):** videos showcasing gameplay from some of game prototypes that I’ve developed and collobrated.
-- My **[itch.io](https://carb0nn.itch.io/):**
+- ⚡ My **[Youtube](https://www.youtube.com/@carb0nn)** videos showcasing gameplay from some of game prototypes that I’ve developed and collobrated.
+- My **[itch.io](https://carb0nn.itch.io/)**
 
 ## Reach Me
 - aliyunusc@gmail.com

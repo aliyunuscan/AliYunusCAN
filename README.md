@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 C# - Unity - Unreal Engine - Maya
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyunuscan&layout=compact)
+
+My Projects
+- Game Jam game called **[DYNEXIS](https://github.com/aliyunuscan/DYNEXIS)** developed in 3 days and NOW OPEN SOURCE!

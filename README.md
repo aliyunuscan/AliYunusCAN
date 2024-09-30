@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 - [Youtube](https://www.youtube.com/@carb0nn)
 
 ## Languages and Tools
-C#
-Unity
-Unreal Engine
-Maya
+C# - Unity - Unreal Engine - Maya
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyunuscan&layout=compact)-->

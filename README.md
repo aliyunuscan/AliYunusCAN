@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on **[Space Rebels](https://github.com/aliyunuscan/SpaceRebels):** A 2D space-themed roguelike game where players battle through procedurally generated enemy waves.
-- 🌱 I’m currently learning **Unreal Engine** and **3D Modelling**.
-- ⚡ My **[Youtube](https://www.youtube.com/@carb0nn)** videos showcasing gameplay from some of game prototypes that I’ve developed and collobrated.
+<!-- 🔭 I'm currently working on **[Space Rebels](https://github.com/aliyunuscan/SpaceRebels):** A 2D space-themed roguelike game where players battle through procedurally generated enemy waves.-->
+- 🌱 I’m currently using **Unity** for create prototypes and minigames.
+- ⚡ My **[Youtube](https://www.youtube.com/@ayunusc)** videos showcasing gameplay from some of game prototypes that I’ve developed and collobrated.
 - My **[itch.io](https://carb0nn.itch.io/)**
 
 ## Reach Me
 - aliyunusc@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ali-yunus-can-2b45aa229/)
-- [Youtube](https://www.youtube.com/@carb0nn)
+- [Youtube](https://www.youtube.com/@ayunusc)
 
 ## Languages and Tools
 C# - Unity - Unreal Engine - Maya

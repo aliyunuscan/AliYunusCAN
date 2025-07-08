@@ -1,5 +1,5 @@
-## Hi👋, I'm Ali Yunus
-I am passionate about game development, working to improve myself in the field of game programming, and producing both individual and team projects.
+## Hi, I'm Ali Yunus
+I am passionate about game development, working to improve myself in the field of programming, and producing both individual and team projects.
 <!--
 **aliyunuscan/AliYunusCAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 🔭 I'm currently working on **[Space Rebels](https://github.com/aliyunuscan/SpaceRebels):** A 2D space-themed roguelike game where players battle through procedurally generated enemy waves.-->
-- 🌱 I’m currently using **Unity** for create prototypes and minigames.
+- 🌱 I’m currently using **Unity** for create prototypes and simulations.
 - ⚡ My **[Youtube](https://www.youtube.com/@ayunusc)** videos showcasing gameplay from some of game prototypes that I’ve developed and collobrated.
 - My **[itch.io](https://carb0nn.itch.io/)**
 
@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 - [Youtube](https://www.youtube.com/@ayunusc)
 
 ## Languages and Tools
-C# - Unity - Unreal Engine - Maya
+C# - Unity - Maya
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyunuscan&layout=compact)
 
-## My Projects
-- Game Jam game called **[DYNEXIS](https://github.com/aliyunuscan/DYNEXIS)** developed in 3 days and NOW OPEN SOURCE!

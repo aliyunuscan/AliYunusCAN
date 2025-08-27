@@ -2,6 +2,8 @@
 ## Hi, I'm Ali Yunus
 I am passionate about game development, working to improve myself in the field of programming, and producing both individual and team projects.
 
+- [LinkedIn](https://www.linkedin.com/in/ali-yunus-can-2b45aa229/)
+
 **aliyunuscan/AliYunusCAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,7 +24,6 @@ Here are some ideas to get you started:
 
 ## Reach Me
 - aliyunusc@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ali-yunus-can-2b45aa229/)
 
 ## Languages and Tools
 C# - Unity - Maya

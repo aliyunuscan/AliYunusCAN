@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - aliyunusc@gmail.com
 
 ## Languages and Tools
-C# - Unity - Maya
+C# - Python - Unity - Maya
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyunuscan&layout=compact)
 

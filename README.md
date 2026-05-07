@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ## Languages and Tools
 C# - Python - Unity - Maya
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyunuscan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyunuscan&layout=compact&v=1)
 

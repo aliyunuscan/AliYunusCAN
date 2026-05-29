@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyunuscan&layout=compact&v=1)
 - I’m currently using **Unity** for create prototypes and simulations.
 -->
 
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ## Languages and Tools
 C# - Python - Unity - Maya
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyunuscan&layout=compact&v=1)
+
 
